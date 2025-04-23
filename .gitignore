@@ -1,0 +1,65 @@
+# -----------------------
+# .NET / C# / Visual Studio
+# -----------------------
+
+## Build Results
+bin/
+obj/
+[Ll]og/
+*.log
+
+## VS User Settings
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## VS Code
+.vscode/
+.vscode/*
+
+## Dotnet CLI
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Rider / JetBrains
+.idea/
+*.sln.iml
+
+## VS Test
+TestResults/
+*.vspscc
+*.vsp
+*.vsmdi
+*.pdb
+
+## NuGet
+*.nupkg
+*.snupkg
+.nuget/
+packages/
+*.psmdcp
+
+## Others
+_ReSharper*/
+*.resharper
+*.cache
+*.dbmdl
+*.bak
+*.backup
+*.tmp
+*.temp
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# Optional: exclude local secrets or env files
+.env
+.env.*
+secrets.json
