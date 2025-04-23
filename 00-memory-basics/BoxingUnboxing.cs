@@ -45,11 +45,11 @@ namespace CSharpLearningApp._00_memory_basics
  *          Nedir Bu Boxing Unboxing?
  * 
  * Boxing: Bir Value Type değerini Reference Type içine alarak, stack üzerinden heap'e taşıma işlemidir.
- * Unboxing: Bu işlem ise Reference Type içinde bulunan değeri exlicit cast yaparak heap üzerinden stack'e taşımadır.
+ * Unboxing: Bu işlem ise Reference Type içinde bulunan değeri explicit cast yaparak heap üzerinden stack'e alma işlemidir.
  * 
  * Peki ne için kullanılır?
  * Bu işlem çoğu zaman arkada otomatik olarak gerçekleşir.
- * object tipli colectionlardan value type tutmak için. (Eski C# sürümlerinde ArrayList, Hashtable hep object kullanılırdı).
+ * object tipli koleksiyonlarda value type tutmak için. (Eski C# sürümlerinde ArrayList, Hashtable hep object kullanılırdı).
  * API'lerde türü bilinmeyen genel değeri tutmak.
  * Generic olmayan yapılarda type abstraction için kullanılır.
  * 
