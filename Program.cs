@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using CSharpLearningApp._00_memory_basics;
+
+Console.WriteLine("🚀 C# Learning Journey Başlıyor...");
+ValueVsReference.Run();

@@ -1,0 +1,15 @@
+C:\Users\mehme\Desktop\C#\CSharpLearningApp\CSharpLearningApp\bin\Debug\net8.0\CSharpLearningApp.exe
+C:\Users\mehme\Desktop\C#\CSharpLearningApp\CSharpLearningApp\bin\Debug\net8.0\CSharpLearningApp.deps.json
+C:\Users\mehme\Desktop\C#\CSharpLearningApp\CSharpLearningApp\bin\Debug\net8.0\CSharpLearningApp.runtimeconfig.json
+C:\Users\mehme\Desktop\C#\CSharpLearningApp\CSharpLearningApp\bin\Debug\net8.0\CSharpLearningApp.dll
+C:\Users\mehme\Desktop\C#\CSharpLearningApp\CSharpLearningApp\bin\Debug\net8.0\CSharpLearningApp.pdb
+C:\Users\mehme\Desktop\C#\CSharpLearningApp\CSharpLearningApp\obj\Debug\net8.0\CSharpLearningApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mehme\Desktop\C#\CSharpLearningApp\CSharpLearningApp\obj\Debug\net8.0\CSharpLearningApp.AssemblyInfoInputs.cache
+C:\Users\mehme\Desktop\C#\CSharpLearningApp\CSharpLearningApp\obj\Debug\net8.0\CSharpLearningApp.AssemblyInfo.cs
+C:\Users\mehme\Desktop\C#\CSharpLearningApp\CSharpLearningApp\obj\Debug\net8.0\CSharpLearningApp.csproj.CoreCompileInputs.cache
+C:\Users\mehme\Desktop\C#\CSharpLearningApp\CSharpLearningApp\obj\Debug\net8.0\CSharpLearningApp.sourcelink.json
+C:\Users\mehme\Desktop\C#\CSharpLearningApp\CSharpLearningApp\obj\Debug\net8.0\CSharpLearningApp.dll
+C:\Users\mehme\Desktop\C#\CSharpLearningApp\CSharpLearningApp\obj\Debug\net8.0\refint\CSharpLearningApp.dll
+C:\Users\mehme\Desktop\C#\CSharpLearningApp\CSharpLearningApp\obj\Debug\net8.0\CSharpLearningApp.pdb
+C:\Users\mehme\Desktop\C#\CSharpLearningApp\CSharpLearningApp\obj\Debug\net8.0\CSharpLearningApp.genruntimeconfig.cache
+C:\Users\mehme\Desktop\C#\CSharpLearningApp\CSharpLearningApp\obj\Debug\net8.0\ref\CSharpLearningApp.dll
